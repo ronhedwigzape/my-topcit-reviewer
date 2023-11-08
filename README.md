@@ -17,6 +17,12 @@ This repository contains study materials for the upcoming TOPCIT exam. The mater
   - [2.3 Database Programming](/2-data/2.3-database-programming.md)
   - [2.4 Database Operations](/2-data/2.4-database-operations.md)
   - [2.5 Understanding Data Analysis and Application](/2-data/2.5-understanding-data-analysis-and-application.md)
+- [3. Systems Architecture](/3-systems-architecture/)
+  - [3.1 Overview of Systems Architecture](/3-systems-architecture/3.1-overview-of-systems-architecture.md)
+  - [3.2 System-based Technologies](/3-systems-architecture/3.2-system-based-technologies.md)
+  - [3.3 Application Technologies of Systems Architecture](/3-systems-architecture/3.3-application-technologies-of-systems-architecture.md)
+  - [3.4 Network-based Technologies](/3-systems-architecture/3.4-network-based-technologies.md)
+  - [3.5 Application Technologies of Network](/3-systems-architecture/3.5-application-technologies-of-network.md)
 
 
 ## How to Use this Reviewer
