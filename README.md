@@ -9,6 +9,8 @@ This repository contains study materials for the upcoming TOPCIT exam. The mater
   - [1.2 Data Structure and Algorithm](/1-software/1.2-data-structure-and-algorithm.md)
   - [1.3 Software Analysis and Design](/1-software/1.3-software-analysis-and-design.md)
   - [1.4 Software Implementation and Testing](/1-software/1.4-software-implementation-and-testing.md)
+  - [1.5 Software Management](/1-software/1.5-software-management.md)
+  - [1.6 Trends in Software Development](/1-software/1.6-trends-in-software-development.md)
 
 ## How to Use this Reviewer
 
