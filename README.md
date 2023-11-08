@@ -26,6 +26,10 @@ This repository contains study materials for the upcoming TOPCIT exam. The mater
 - [4. Information Security](/4-information-security/)
   - [4.1 Understanding of Information Security](/4-information-security/4.1-understanding-of-information-security.md)
   - [4.2 Practice of Information Security](/4-information-security/4.2-practice-of-information-security.md)
+- [5. IT Business & Ethics](/5-it-business-and-ethics/)
+  - [5.1 Understanding of IT Business](/5-it-business-and-ethics/5.1-understanding-of-it-business.md)
+  - [5.2 Planning for IT Businesses](/5-it-business-and-ethics/5.2-planning-for-it-businesses.md)
+  - [5.3 IT Business Practices](/5-it-business-and-ethics/5.3-it-business-practices.md)
 
 
 ## How to Use this Reviewer
