@@ -11,6 +11,13 @@ This repository contains study materials for the upcoming TOPCIT exam. The mater
   - [1.4 Software Implementation and Testing](/1-software/1.4-software-implementation-and-testing.md)
   - [1.5 Software Management](/1-software/1.5-software-management.md)
   - [1.6 Trends in Software Development](/1-software/1.6-trends-in-software-development.md)
+- [2. Data](/2-data/)
+  - [2.1 Understanding Data and Database](/2-data/2.1-understanding-data-and-database.md)
+  - [2.2 Database Design](/2-data/2.2-database-design.md)
+  - [2.3 Database Programming](/2-data/2.3-database-programming.md)
+  - [2.4 Database Operations](/2-data/2.4-database-operations.md)
+  - [2.5 Understanding Data Analysis and Application](/2-data/2.5-understanding-data-analysis-and-application.md)
+
 
 ## How to Use this Reviewer
 
