@@ -23,6 +23,9 @@ This repository contains study materials for the upcoming TOPCIT exam. The mater
   - [3.3 Application Technologies of Systems Architecture](/3-systems-architecture/3.3-application-technologies-of-systems-architecture.md)
   - [3.4 Network-based Technologies](/3-systems-architecture/3.4-network-based-technologies.md)
   - [3.5 Application Technologies of Network](/3-systems-architecture/3.5-application-technologies-of-network.md)
+- [4. Information Security](/4-information-security/)
+  - [4.1 Understanding of Information Security](/4-information-security/4.1-understanding-of-information-security.md)
+  - [4.2 Practice of Information Security](/4-information-security/4.2-practice-of-information-security.md)
 
 
 ## How to Use this Reviewer
